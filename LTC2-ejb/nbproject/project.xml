@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://www.netbeans.org/ns/project/1">
+    <type>org.netbeans.modules.j2ee.ejbjarproject</type>
+    <configuration>
+        <data xmlns="http://www.netbeans.org/ns/j2ee-ejbjarproject/3">
+            <name>LTC2-ejb</name>
+            <minimum-ant-version>1.6.5</minimum-ant-version>
+            <included-library dirs="200">file.reference.derby.jar</included-library>
+            <included-library dirs="200">file.reference.derbyLocale_cs.jar</included-library>
+            <included-library dirs="200">file.reference.derbyLocale_de_DE.jar</included-library>
+            <included-library dirs="200">file.reference.derbyLocale_es.jar</included-library>
+            <included-library dirs="200">file.reference.derbyLocale_fr.jar</included-library>
+            <included-library dirs="200">file.reference.derbyLocale_hu.jar</included-library>
+            <included-library dirs="200">file.reference.derbyLocale_it.jar</included-library>
+            <included-library dirs="200">file.reference.derbyLocale_ja_JP.jar</included-library>
+            <included-library dirs="200">file.reference.derbyLocale_ko_KR.jar</included-library>
+            <included-library dirs="200">file.reference.derbyLocale_pl.jar</included-library>
+            <included-library dirs="200">file.reference.derbyLocale_pt_BR.jar</included-library>
+            <included-library dirs="200">file.reference.derbyLocale_ru.jar</included-library>
+            <included-library dirs="200">file.reference.derbyLocale_zh_CN.jar</included-library>
+            <included-library dirs="200">file.reference.derbyLocale_zh_TW.jar</included-library>
+            <included-library dirs="200">file.reference.derbyclient.jar</included-library>
+            <included-library dirs="200">file.reference.derbynet.jar</included-library>
+            <included-library dirs="200">file.reference.derbyoptionaltools.jar</included-library>
+            <included-library dirs="200">file.reference.derbyrun.jar</included-library>
+            <included-library dirs="200">file.reference.derbytools.jar</included-library>
+            <included-library dirs="200">file.reference.primefaces-5.0-sources.jar</included-library>
+            <included-library dirs="200">file.reference.primefaces-5.0.jar</included-library>
+            <included-library dirs="200">file.reference.commons-collections4-4.4.jar</included-library>
+            <included-library dirs="200">file.reference.SparseBitSet-1.2.jar</included-library>
+            <included-library dirs="200">file.reference.commons-codec-1.15.jar</included-library>
+            <included-library dirs="200">file.reference.commons-io-2.11.0.jar</included-library>
+            <included-library dirs="200">file.reference.commons-math3-3.6.1.jar</included-library>
+            <included-library dirs="200">file.reference.log4j-api-2.18.0.jar</included-library>
+            <included-library dirs="200">file.reference.commons-io-2.16.1.jar</included-library>
+            <source-roots>
+                <root id="src.dir" name="Source Packages"/>
+            </source-roots>
+            <test-roots>
+                <root id="test.src.dir" name="Test Packages"/>
+            </test-roots>
+        </data>
+    </configuration>
+</project>
